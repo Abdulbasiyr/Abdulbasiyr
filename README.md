@@ -1,50 +1,32 @@
-# Abdulbasiyr Niyazmuhamedov
+<h1 align="center">Abdulbasiyr Niyazmuhamedov</h1>
+<p align="center"><b>Backend Developer</b> · Node.js · PostgreSQL · MongoDB · Prisma</p>
 
-### Backend Developer | Node.js | PostgreSQL | MongoDB
-
-## 🎨 Frontend
-React • Vite
-
----
+<hr/>
 
 ## 🧠 About Me
+- I build structured backend systems and clean APIs.
+- Focused on backend architecture and authentication flows.
+- I care about reliability and long-term code quality.
 
-- I focus on building structured backend systems.
-- Improving my skills in API design, authentication flows and database architecture.
-- I value clarity, discipline and long-term thinking in software engineering.
-
----
+<hr/>
 
 ## ⚙️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
+<hr/>
 
 ## 🚀 Featured Project
+### 🔴 Redline
+Traffic-light task management system with dynamic urgency logic.
 
-### 🔴 Redline  
-Traffic-light based task management system with dynamic urgency logic.
-
----
+<hr/>
 
 ## 📊 GitHub Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulbasiyr&show_icons=true&theme=tokyonight)
-<!--
-**Abdulbasiyr/Abdulbasiyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
