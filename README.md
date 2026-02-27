@@ -29,4 +29,4 @@ Traffic-light task management system with dynamic urgency logic.
 <hr/>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulbasiyr&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&v=1" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulbasiyr&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&v=2" width="47%" />
