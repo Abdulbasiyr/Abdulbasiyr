@@ -23,7 +23,7 @@
 
 ## 🚀 Featured Project
 ### 🔴 Redline
-Traffic-light task management system with dynamic urgency logic.
+Traffic-light Task Management System with dynamic urgency logic.
 
 <hr/>
 
